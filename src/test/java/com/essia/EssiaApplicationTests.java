@@ -1,4 +1,4 @@
-package br.com.essia;
+package com.essia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

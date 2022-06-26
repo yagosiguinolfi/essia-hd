@@ -1,4 +1,4 @@
-package br.com.essia;
+package com.essia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
