@@ -11,6 +11,8 @@ import com.essia.dto.DiretorioDto;
 import com.essia.entity.Diretorio;
 import com.essia.service.DiretorioService;
 
+
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/diretorio")
 public class DiretorioController {

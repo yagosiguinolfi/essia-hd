@@ -11,6 +11,7 @@ import com.essia.dto.ArquivoDto;
 import com.essia.entity.Arquivo;
 import com.essia.service.ArquivoService;
 
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/arquivo")
 public class ArquivoController {
